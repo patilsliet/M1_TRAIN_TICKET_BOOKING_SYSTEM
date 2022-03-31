@@ -15,4 +15,5 @@ CODE GRADE
 3.BUILD BATCH
 [![C/C++ CI](https://github.com/patilsliet/PRACTICE_PRJ/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/patilsliet/PRACTICE_PRJ/actions/workflows/c-cpp.yml)
 
-
+4.CPP CHECK'
+[![CPPCheck](https://github.com/patilsliet/PRACTICE_PRJ/actions/workflows/cpcheck.yml/badge.svg)](https://github.com/patilsliet/PRACTICE_PRJ/actions/workflows/cpcheck.yml)
