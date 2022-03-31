@@ -12,4 +12,7 @@ CODE QUALITY BATCH
 CODE GRADE 
 ![Quality](https://api.codiga.io/project/32280/status/svg)
 
+3.BUILD BATCH
+[![C/C++ CI](https://github.com/patilsliet/PRACTICE_PRJ/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/patilsliet/PRACTICE_PRJ/actions/workflows/c-cpp.yml)
+
 
