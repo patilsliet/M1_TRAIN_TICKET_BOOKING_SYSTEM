@@ -1,4 +1,4 @@
-name: Build CI - Linux
+name: C/C++ CI
 
 on:
   push:
@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
-    - name: configure
+    - uses: actions/checkout@v2
+    - name: make run
       run: make run -C implementation/
+ 
