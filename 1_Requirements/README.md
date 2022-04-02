@@ -30,28 +30,39 @@ It will save the operating cost, reduction in paperwork and manual handling of t
 ![image](https://user-images.githubusercontent.com/101458188/161370279-70dd7e4f-33a6-4455-85f3-8caef7e84da5.png)
 
 ## 5 W’s:
-# Why: 
+### Why: 
 To reduce the manual work, along with that to save the time and efforts of Users to personally visit the stations for booking.
 
-# Who:
+### Who:
 Small and medium size organization can use it.
 
-# What:
+### What:
 A simple and easy to use system for the Users to do all the activities related to online train ticket booking system such as reservation, cancellation and all other functions.
 
-# When:
+### When:
 As the India has the largest railway network in the whole of the world and to handle it manually is quite tough job thus it is required now to design such systems which will help to do this job efficiently.
 
-# Where:
+### Where:
 This problem is expected all over the India
 
-## Detail Requirements:
+# Detail requirements
+## High Level Requirements:
 
-# High Level Requirements
-
-
-
-
+| ID | Description | Status |
+|----|-------------|--------|
+| HR_01|User Shall be able to login the system.|Implemented|
+| HR_02|User Shall be able to book the ticket |Implemented |
+| HR_03|User Shall be able to view the available trains. | Implemented |
+| HR_04|User Shall be able to print the ticket|Implemented|
+|HR_05|User Shall be able to cancel the ticket|Implemented|
+## Low Level Requirement 
+|ID|Description|Status|
+|--|-----------|------|
+|LR_01|	The user will be able to login successfully with the valid credential.	|Implemented |
+|LR_02|	If user entered the incorrect login credentials then ‘SORRY !!!! LOGIN IS UNSUCESSFUL’ message should be displayed.|	Implemented|
+|LR_03|If the wrong choice number is entered then message of ‘Invalid Choice’ should be displayed.|Implemented|
+|LR_04|If all the required details for the booking the ticket are not provided then reservation should be unsuccessful	|Implemented|
+|LR_05|	If the proper ticket holder name is provided then the ticket should be cancelled successfully.	|Implemented|
 
 
 
